@@ -1,2 +1,2 @@
 # PI-ISEL
-Internet Programming Course
+COIMA project for Internet Programming Course
